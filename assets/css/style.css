@@ -12,8 +12,12 @@ body {
 }
 
 #left {
-	display: inline-block;
+	display: inline;
 	float: left;
 	height: 100%;
 }
 
+#right {
+	display: inline;
+	float: right;
+}
