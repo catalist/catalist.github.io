@@ -15,7 +15,7 @@ body {
 	display: inline-block;
 }
 
-left {
+#left {
     width: auto;
     height: 100%;
     background-image: url('website.png');
