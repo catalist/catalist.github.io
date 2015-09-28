@@ -12,12 +12,11 @@ body {
 }
 
 #left {
-	display: inline;
-	float: left;
-	height: 100%;
+	display: inline-block;
+	height: 100vh;
 }
 
 #right {
-	display: inline;
+	display: inline-block;
 	float: right;
 }
