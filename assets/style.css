@@ -18,7 +18,7 @@ body {
 left {
     width: auto;
     height: 100%;
-    background-image: url('assets/img/website.png');
+    background-image: url('website.png');
     background-size: contain;
 }
 
