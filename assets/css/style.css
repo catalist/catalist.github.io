@@ -13,6 +13,9 @@ body {
 
 #left {
 	display: inline-block;
+}
+
+#left img {
 	max-height: 100vh;
 }
 
